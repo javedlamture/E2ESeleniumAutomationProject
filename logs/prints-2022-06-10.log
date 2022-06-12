@@ -1,0 +1,12 @@
+22:44:32.521 [main] INFO  resources.Base - Successfully Entered the username
+22:44:32.603 [main] INFO  resources.Base - Successfully Entered the password
+22:44:34.430 [main] INFO  resources.Base - Successfully Navigated to Home Page
+22:44:34.438 [main] INFO  resources.Base - Successfully maximized the screen window
+22:44:34.486 [main] INFO  resources.Base - Successfully Clicked on Log In button
+22:44:35.885 [main] INFO  resources.Base - Successfully Entered the username
+22:44:35.951 [main] INFO  resources.Base - Successfully Entered the password
+22:44:35.984 [main] DEBUG io.netty.util.internal.ThreadLocalRandom - -Dio.netty.initialSeedUniquifier: 0x64f265479f2a0c5f
+22:44:45.533 [main] INFO  resources.Base - Webdriver is successfully initialised
+22:44:49.864 [main] INFO  resources.Base - successfully initialised given URL
+22:44:50.227 [main] INFO  resources.Base - An Academy to Learn Earn & Shine  in your QA Career
+22:44:50.309 [main] INFO  resources.Base - Successfully validated title

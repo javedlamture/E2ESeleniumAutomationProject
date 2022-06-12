@@ -1,0 +1,12 @@
+21:05:16.366 [TestNG-tests-2] INFO  resources.Base - Webdriver is successfully initialised
+21:05:16.375 [TestNG-tests-3] INFO  resources.Base - Webdriver is successfully initialised
+21:05:16.379 [TestNG-tests-1] INFO  resources.Base - Webdriver is successfully initialised
+21:05:25.580 [TestNG-tests-2] INFO  resources.Base - successfully initialised given URL
+21:05:26.015 [TestNG-tests-2] INFO  resources.Base - An Academy to Learn Earn & Shine  in your QA Career
+21:05:26.086 [TestNG-tests-2] INFO  resources.Base - Successfully validated title
+21:05:26.114 [TestNG-tests-2] INFO  resources.Base - Rahul Shetty Academy
+21:05:26.131 [TestNG-tests-2] INFO  resources.Base - Successfully validated title
+21:05:26.277 [TestNG-tests-2] INFO  resources.Base - Successfully Clicked on Join Now Link
+21:05:26.610 [TestNG-tests-2] INFO  resources.Base - successfully closed the browser
+21:05:26.813 [TestNG-tests-1] INFO  resources.Base - Successfully Navigated to Home Page
+21:05:27.042 [TestNG-tests-1] INFO  resources.Base - Successfully maximized the screen window

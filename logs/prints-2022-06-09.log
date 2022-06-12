@@ -1,0 +1,12 @@
+21:40:54.968 [main] INFO  resources.Base - Successfully maximized the screen window
+21:41:00.780 [main] INFO  resources.Base - Successfully Clicked on Login button
+21:41:01.011 [main] INFO  resources.Base - Successfully Entered the username
+21:41:01.187 [main] INFO  resources.Base - Successfully Entered the password
+21:41:03.822 [main] INFO  resources.Base - Successfully Navigated to Home Page
+21:41:03.840 [main] INFO  resources.Base - Successfully maximized the screen window
+21:41:07.507 [main] INFO  resources.Base - Successfully Clicked on Login button
+21:41:07.752 [main] INFO  resources.Base - Successfully Entered the username
+21:41:07.903 [main] INFO  resources.Base - Successfully Entered the password
+21:41:07.920 [AsyncHttpClient-1-4] TRACE io.netty.handler.codec.http.websocketx.WebSocket08FrameEncoder - Encoding WebSocket Frame opCode=8 length=26
+21:41:12.644 [main] INFO  resources.Base - Webdriver is successfully initialised
+21:41:18.347 [main] INFO  resources.Base - successfully initialised given URL
