@@ -1,0 +1,13 @@
+08:26:10.274 [main] INFO  resources.Base - Successfully maximized the screen window
+08:26:16.026 [main] INFO  resources.Base - Successfully Clicked on Log In button
+08:26:16.243 [main] INFO  resources.Base - Successfully Entered the username
+08:26:16.432 [main] INFO  resources.Base - Successfully Entered the password
+08:26:19.161 [main] INFO  resources.Base - Successfully Navigated to Home Page
+08:26:19.172 [main] INFO  resources.Base - Successfully maximized the screen window
+08:26:22.311 [main] INFO  resources.Base - Successfully Clicked on Log In button
+08:26:22.426 [main] INFO  resources.Base - Successfully Entered the username
+08:26:22.513 [main] INFO  resources.Base - Successfully Entered the password
+08:26:25.343 [main] INFO  resources.Base - Webdriver is successfully initialised
+08:26:29.741 [main] INFO  resources.Base - successfully initialised given URL
+08:26:29.998 [main] INFO  resources.Base - An Academy to Learn Earn & Shine  in your QA Career
+08:26:30.047 [main] INFO  resources.Base - Successfully validated title

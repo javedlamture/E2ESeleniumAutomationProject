@@ -1,9 +1,9 @@
-22:44:50.316 [main] INFO  resources.Base - Rahul Shetty Academy
-22:44:50.326 [main] INFO  resources.Base - Successfully validated title
-22:44:50.622 [main] INFO  resources.Base - Successfully Clicked on Join Now Link
-22:44:52.725 [main] INFO  resources.Base - successfully closed the browser
-22:44:59.059 [main] INFO  resources.Base - Webdriver is successfully initialised
-22:45:04.967 [main] INFO  resources.Base - Successfully initialized the browser using given URL
-22:45:05.280 [main] INFO  resources.Base - Successfully Clicked on radion button 1
-22:45:05.517 [main] INFO  resources.Base - Successfully Clicked on radion button 2
-22:45:05.755 [main] INFO  resources.Base - Successfully Clicked on radion button 3
+08:26:30.060 [main] INFO  resources.Base - Rahul Shetty Academy
+08:26:30.077 [main] INFO  resources.Base - Successfully validated title
+08:26:30.207 [main] INFO  resources.Base - Successfully Clicked on Join Now Link
+08:26:30.382 [main] INFO  resources.Base - successfully closed the browser
+08:26:32.093 [main] INFO  resources.Base - Webdriver is successfully initialised
+08:26:37.247 [main] INFO  resources.Base - Successfully initialized the browser using given URL
+08:26:37.663 [main] INFO  resources.Base - Successfully Clicked on radion button 1
+08:26:37.737 [main] INFO  resources.Base - Successfully Clicked on radion button 2
+08:26:37.813 [main] INFO  resources.Base - Successfully Clicked on radion button 3
