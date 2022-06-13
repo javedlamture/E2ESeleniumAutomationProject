@@ -46,6 +46,9 @@ public class PracticePage2HomePage extends Base {
 		log.info("Successfully Clicked on radion button 2");
 		pr.Radio3().click();
 		log.info("Successfully Clicked on radion button 3");
+		System.out.println("Line number 1");
+		System.out.println("Line number 2");
+		System.out.println("Line number 3");
 		
 		
 	

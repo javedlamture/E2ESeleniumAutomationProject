@@ -60,7 +60,7 @@ public class ValidateTitle extends Base {
 		
 		Assert.assertTrue(ln.joinNowText().isDisplayed());
 		log.info("Successfully Clicked on Join Now Link");
-		System.out.println("I am writing this line to check if my code getting updated in github properly");
+		
 		
 		
 		
