@@ -61,6 +61,8 @@ public class ValidateTitle extends Base {
 		Assert.assertTrue(ln.joinNowText().isDisplayed());
 		log.info("Successfully Clicked on Join Now Link");
 		
+		//I am commenting from ecllipse.
+		
 		
 		
 		
